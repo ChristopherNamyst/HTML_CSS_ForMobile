@@ -1,0 +1,299 @@
+@font-face {
+  font-family: 'Open Sans', sans-serif;
+  src: url('https://fonts.googleapis.com/css?family=Open+Sans');
+}
+
+body {
+	background-color: #f9fafc;
+	font-family: open sans;
+	Font-weight: normal
+}
+
+nav{
+    font-size: 18px;
+}
+
+.linkage {
+  display: flex;
+  align-items: flex-start;
+  list-style: column;
+  margin-right: 300px;
+
+}
+
+ul {
+    
+    list-style-type: none;
+    text-decoration: none;
+    
+}
+
+a {
+    text-decoration: none;
+    color: #69696a;
+    margin-right: 350px;
+    
+    
+}
+.hirebutton {
+    width: 400px;
+    color: #f9fafc;
+    border-radius: 25px;
+    width: auto;
+    height: 20px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+h1{
+    font-size: 24px
+}
+
+p {
+    color: #69696a;
+    margin-right: 350px;
+    border-left: solid;
+    border-left-style: groove;
+    padding: 25px;
+}
+.scrollbutton {
+   
+    width: 400px;
+    color: #f9fafc;
+    border-radius: 25px;
+    width: auto;
+    height: 20px;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+ /*#circle1 {
+    background: rgba(247, 136, 167, 0.8);
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+     position:relative;left:600px;top:140px
+
+
+}
+#circle2 {
+	 background: rgba(247, 193, 162, 0.8);
+	 width: 170px;
+	 height: 170px;
+	 border-radius: 50%;
+	 position:relative;left:780px;top:10px
+}
+
+#circle3 {
+	 background: rgba(207, 130, 213, 0.8);
+	 width: 100px;
+	 height: 100px;
+	 border-radius: 50%;
+	 position:relative;left:820px;top:-240px
+}
+
+*/
+/*mobile portrait*/
+@media only screen and  
+    (max-width: 320px){
+        
+}
+/*mobile landscape*/
+@media only screen and (min-width: 321px)and 
+    (max-width: 480px){
+        
+}
+/*tablets*/
+@media only screen and (min-width: 768px)and 
+    (max-width: 1024px){
+        
+}
+/*desktop and laptops*/
+@media only screen and (min-width: 1224px){
+    
+circle1 {
+    background: rgba(247, 136, 167, 0.8);
+    width: 240px;
+    height: 240px;
+    border-radius: 50%;
+    position:relative;left:600px;top:140px
+
+
+}
+    
+#circle2 {
+	 background: rgba(247, 193, 162, 0.8);
+	 width: 170px;
+	 height: 170px;
+	 border-radius: 50%;
+	 position:relative;left:780px;top:10px
+}
+
+#circle3 {
+	 background: rgba(207, 130, 213, 0.8);
+	 width: 100px;
+	 height: 100px;
+	 border-radius: 50%;
+	 position:relative;left:820px;top:-240px
+}
+    
+ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-left: 500px;
+}   
+a {
+    color: #69696a;
+    text-decoration: none;
+    padding-left: 20px;
+  }
+    
+.hirebutton {
+      color: #f9fafc;
+      border-radius: 50px;
+      border: 1px solid #000;
+      width: 75px;
+      height: 25px;
+      background-color: black;
+      display: flex;
+      justify-content: space-between;
+      margin: 0 auto;
+
+}
+    
+.scrollbutton {
+  color: #f9fafc;
+  border-radius: 50px;
+  border: 1px solid #000;
+  width: 300px;
+  height: 25px;
+  background-color: black;
+  align-items: center;
+  position:absolute;
+  left: 50%;
+  margin-top:50%;
+
+}
+    
+ p {
+  border-left: solid;
+  color: #69696a;
+  padding: 3px;
+  margin-left: 15px;
+  position: absolute; top: 50%;
+  word-wrap: normal;
+  width: 50%
+}
+    
+h1 {
+  position: absolute; top: 40%;
+  margin-left: 15px;}
+
+}
+    
+
+/*very large screen devices*/
+@media only screen and (min-width: 1824px)
+        
+
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
